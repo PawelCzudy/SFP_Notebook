@@ -1,4 +1,4 @@
-Verbrauch;Hersteller;CO₂-Emissionen2;Fahrzeughalter;Schadstoffklasse;Barzahlungspreis;Sitzplätze;Türen;Kilometerstand;Erstzulassung;HU;Leistung;Getriebe;Kraftstoff;Außenfarbe
+Verbrauch;Hersteller;Emissionen;Fahrzeughalter;Schadstoffklasse;Preis;Sitzplätze;Türen;Kilometerstand;Alter;HU;Leistung;Getriebe;Kraftstoff;Außenfarbe
 8.0;Mercedes-Benz;212;3;3;7790;5;5;227824;21;24;90;Schaltgetriebe;Diesel;Silber
 10.9;Mercedes-Benz;262;1;4;11490;5;5;97000;21;24;130;Automatik;Benzin;Silber
 11.2;Audi;269;1;4;9790;4;3;150164;19;24;162;Schaltgetriebe;Benzin;Schwarz
